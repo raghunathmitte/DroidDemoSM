@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="DroidDemo\DroidDemo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.0715f71165222f32" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DroidDemo\Views\MainView.cs">
+    <Files>
+      <File FileName="SMDemoData\ViewModels\MainViewModel.cs" Line="5" Column="31" />
+      <File FileName="SMDemoData\App.cs" Line="4" Column="2" />
+      <File FileName="DroidDemo\Views\MainView.cs" Line="15" Column="37" />
+      <File FileName="DroidDemo\Setup.cs" Line="1" Column="1" />
+      <File FileName="SMDemoData\Interfaces\IDownloadManager.cs" Line="7" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DroidDemo AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

@@ -1,0 +1,7 @@
+/
+.DS_Store
+.vs/DroidDemo/v14/.suo
+DroidDemo/bin/
+DroidDemo/obj/
+SMDemoData/bin/
+packages/MvvmCross.Binding.4.1.6/lib/

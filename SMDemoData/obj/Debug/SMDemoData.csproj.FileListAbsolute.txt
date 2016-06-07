@@ -1,0 +1,14 @@
+C:\Users\426794\Downloads\Technical-Test-Download\Technical-Test-Download\DroidDemo\DroidDemo\SMDemoData\bin\Debug\SMDemoData.dll
+C:\Users\426794\Downloads\Technical-Test-Download\Technical-Test-Download\DroidDemo\DroidDemo\SMDemoData\bin\Debug\SMDemoData.pdb
+C:\Users\426794\Downloads\Technical-Test-Download\Technical-Test-Download\DroidDemo\DroidDemo\SMDemoData\bin\Debug\MvvmCross.Binding.dll
+C:\Users\426794\Downloads\Technical-Test-Download\Technical-Test-Download\DroidDemo\DroidDemo\SMDemoData\bin\Debug\MvvmCross.Core.dll
+C:\Users\426794\Downloads\Technical-Test-Download\Technical-Test-Download\DroidDemo\DroidDemo\SMDemoData\bin\Debug\MvvmCross.Localization.dll
+C:\Users\426794\Downloads\Technical-Test-Download\Technical-Test-Download\DroidDemo\DroidDemo\SMDemoData\bin\Debug\MvvmCross.Platform.dll
+C:\Users\426794\Downloads\Technical-Test-Download\Technical-Test-Download\DroidDemo\DroidDemo\SMDemoData\bin\Debug\MvvmCross.Plugins.Messenger.dll
+C:\Users\426794\Downloads\Technical-Test-Download\Technical-Test-Download\DroidDemo\DroidDemo\SMDemoData\bin\Debug\Newtonsoft.Json.dll
+C:\Users\426794\Downloads\Technical-Test-Download\Technical-Test-Download\DroidDemo\DroidDemo\SMDemoData\bin\Debug\Newtonsoft.Json.xml
+C:\Users\426794\Downloads\Technical-Test-Download\Technical-Test-Download\DroidDemo\DroidDemo\SMDemoData\obj\Debug\SMDemoData.dll
+C:\Users\426794\Downloads\Technical-Test-Download\Technical-Test-Download\DroidDemo\DroidDemo\SMDemoData\obj\Debug\SMDemoData.pdb
+C:\Users\426794\Downloads\Technical-Test-Download\Technical-Test-Download\DroidDemo\DroidDemo\SMDemoData\obj\Debug\SMDemoData.csprojResolveAssemblyReference.cache
+C:\Users\426794\Downloads\Technical-Test-Download\Technical-Test-Download\DroidDemo\DroidDemo\SMDemoData\obj\Debug\SMDemoData.dll.mdb
+C:\Users\426794\Downloads\Technical-Test-Download\Technical-Test-Download\DroidDemo\DroidDemo\SMDemoData\bin\Debug\SMDemoData.dll.mdb
